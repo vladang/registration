@@ -1,0 +1,22 @@
+body {
+    padding: 20px 100px;
+}
+
+label {
+    display: block;
+    width: 100%;
+    padding: 5px;
+}
+
+label input {
+    display: block;
+}
+
+form {
+    display: block;
+    padding: 20px 0;
+}
+
+table {
+    margin: 20px 0;
+}
